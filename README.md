@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Mandarbhat27/leet/tree/master/0021-merge-two-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Mandarbhat27/leet/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Mandarbhat27/leet/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Mandarbhat27/leet/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
