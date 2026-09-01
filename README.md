@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Mandarbhat27/leet/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Mandarbhat27/leet/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Mandarbhat27/leet/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/Mandarbhat27/leet/tree/master/0189-rotate-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Mandarbhat27/leet/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Mandarbhat27/leet/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Mandarbhat27/leet/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mandarbhat27/leet/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Mandarbhat27/leet/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
