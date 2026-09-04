@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Mandarbhat27/leet/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/Mandarbhat27/leet/tree/master/0058-length-of-last-word) |
 | [1903-largest-odd-number-in-string](https://github.com/Mandarbhat27/leet/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
