@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Mandarbhat27/leet/tree/master/0021-merge-two-sorted-lists) |
+| [1922-count-good-numbers](https://github.com/Mandarbhat27/leet/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mandarbhat27/leet/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Mandarbhat27/leet/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Mandarbhat27/leet/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Mandarbhat27/leet/tree/master/1922-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
