@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Mandarbhat27/leet/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Mandarbhat27/leet/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Mandarbhat27/leet/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/Mandarbhat27/leet/tree/master/0078-subsets) |
 | [0134-gas-station](https://github.com/Mandarbhat27/leet/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Mandarbhat27/leet/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Mandarbhat27/leet/tree/master/0189-rotate-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Mandarbhat27/leet/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Mandarbhat27/leet/tree/master/0136-single-number) |
 ## Prefix Sum
 |  |
@@ -85,4 +87,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Mandarbhat27/leet/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Mandarbhat27/leet/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
