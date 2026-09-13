@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Mandarbhat27/leet/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Mandarbhat27/leet/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mandarbhat27/leet/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Mandarbhat27/leet/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Mandarbhat27/leet/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mandarbhat27/leet/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3904-smallest-stable-index-ii](https://github.com/Mandarbhat27/leet/tree/master/3904-smallest-stable-index-ii) |
