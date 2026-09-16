@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Mandarbhat27/leet/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Mandarbhat27/leet/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Mandarbhat27/leet/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/Mandarbhat27/leet/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mandarbhat27/leet/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Mandarbhat27/leet/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Mandarbhat27/leet/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Mandarbhat27/leet/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/Mandarbhat27/leet/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Mandarbhat27/leet/tree/master/1922-count-good-numbers) |
 ## Two Pointers
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Mandarbhat27/leet/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Mandarbhat27/leet/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Mandarbhat27/leet/tree/master/0231-power-of-two) |
 ## Prefix Sum
 |  |
 | ------- |
