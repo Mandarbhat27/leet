@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Mandarbhat27/leet/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Mandarbhat27/leet/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Mandarbhat27/leet/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Mandarbhat27/leet/tree/master/0383-ransom-note) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mandarbhat27/leet/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mandarbhat27/leet/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Mandarbhat27/leet/tree/master/1903-largest-odd-number-in-string) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Mandarbhat27/leet/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Mandarbhat27/leet/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Mandarbhat27/leet/tree/master/0383-ransom-note) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mandarbhat27/leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mandarbhat27/leet/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Mandarbhat27/leet/tree/master/0383-ransom-note) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mandarbhat27/leet/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
