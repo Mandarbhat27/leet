@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Mandarbhat27/leet/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/Mandarbhat27/leet/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Mandarbhat27/leet/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Mandarbhat27/leet/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Mandarbhat27/leet/tree/master/0151-reverse-words-in-a-string) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mandarbhat27/leet/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Mandarbhat27/leet/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Mandarbhat27/leet/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Mandarbhat27/leet/tree/master/0189-rotate-array) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mandarbhat27/leet/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Mandarbhat27/leet/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Mandarbhat27/leet/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Mandarbhat27/leet/tree/master/0349-intersection-of-two-arrays) |
