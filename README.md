@@ -114,10 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Mandarbhat27/leet/tree/master/0100-same-tree) |
 | [0547-number-of-provinces](https://github.com/Mandarbhat27/leet/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Mandarbhat27/leet/tree/master/0100-same-tree) |
 | [0547-number-of-provinces](https://github.com/Mandarbhat27/leet/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
@@ -160,4 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Mandarbhat27/leet/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Mandarbhat27/leet/tree/master/0349-intersection-of-two-arrays) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Mandarbhat27/leet/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Mandarbhat27/leet/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
