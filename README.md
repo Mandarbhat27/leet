@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mandarbhat27/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Mandarbhat27/leet/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Mandarbhat27/leet/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Mandarbhat27/leet/tree/master/0724-find-pivot-index) |
 | [1052-grumpy-bookstore-owner](https://github.com/Mandarbhat27/leet/tree/master/1052-grumpy-bookstore-owner) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mandarbhat27/leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mandarbhat27/leet/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Mandarbhat27/leet/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Mandarbhat27/leet/tree/master/0724-find-pivot-index) |
 | [3904-smallest-stable-index-ii](https://github.com/Mandarbhat27/leet/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
 |  |
