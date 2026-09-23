@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Mandarbhat27/leet/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Mandarbhat27/leet/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Mandarbhat27/leet/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mandarbhat27/leet/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Mandarbhat27/leet/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Mandarbhat27/leet/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Mandarbhat27/leet/tree/master/0349-intersection-of-two-arrays) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Mandarbhat27/leet/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Mandarbhat27/leet/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Mandarbhat27/leet/tree/master/0724-find-pivot-index) |
 | [3904-smallest-stable-index-ii](https://github.com/Mandarbhat27/leet/tree/master/3904-smallest-stable-index-ii) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mandarbhat27/leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mandarbhat27/leet/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Mandarbhat27/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Mandarbhat27/leet/tree/master/0704-binary-search) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mandarbhat27/leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Mandarbhat27/leet/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mandarbhat27/leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1052-grumpy-bookstore-owner](https://github.com/Mandarbhat27/leet/tree/master/1052-grumpy-bookstore-owner) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mandarbhat27/leet/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
