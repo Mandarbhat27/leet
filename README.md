@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Mandarbhat27/leet/tree/master/0021-merge-two-sorted-lists) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mandarbhat27/leet/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Mandarbhat27/leet/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Mandarbhat27/leet/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Mandarbhat27/leet/tree/master/0231-power-of-two) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mandarbhat27/leet/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Mandarbhat27/leet/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Mandarbhat27/leet/tree/master/1922-count-good-numbers) |
 ## Two Pointers
