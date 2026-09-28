@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Mandarbhat27/leet/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mandarbhat27/leet/tree/master/0094-binary-tree-inorder-traversal) |
 ## Binary Search
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mandarbhat27/leet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Mandarbhat27/leet/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Mandarbhat27/leet/tree/master/0101-symmetric-tree) |
 | [0547-number-of-provinces](https://github.com/Mandarbhat27/leet/tree/master/0547-number-of-provinces) |
@@ -203,11 +205,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mandarbhat27/leet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Mandarbhat27/leet/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Mandarbhat27/leet/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mandarbhat27/leet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Mandarbhat27/leet/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Mandarbhat27/leet/tree/master/0101-symmetric-tree) |
 ## Floyd's Cycle Finding Algorithm
