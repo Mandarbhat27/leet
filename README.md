@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Mandarbhat27/leet/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mandarbhat27/leet/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Mandarbhat27/leet/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Mandarbhat27/leet/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Mandarbhat27/leet/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Mandarbhat27/leet/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Mandarbhat27/leet/tree/master/0349-intersection-of-two-arrays) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mandarbhat27/leet/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Mandarbhat27/leet/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Mandarbhat27/leet/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Mandarbhat27/leet/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Mandarbhat27/leet/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Mandarbhat27/leet/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Mandarbhat27/leet/tree/master/0349-intersection-of-two-arrays) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mandarbhat27/leet/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Mandarbhat27/leet/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mandarbhat27/leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/Mandarbhat27/leet/tree/master/0904-fruit-into-baskets) |
 | [1052-grumpy-bookstore-owner](https://github.com/Mandarbhat27/leet/tree/master/1052-grumpy-bookstore-owner) |
