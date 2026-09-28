@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mandarbhat27/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mandarbhat27/leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Mandarbhat27/leet/tree/master/0485-max-consecutive-ones) |
+| [0575-distribute-candies](https://github.com/Mandarbhat27/leet/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/Mandarbhat27/leet/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Mandarbhat27/leet/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Mandarbhat27/leet/tree/master/0904-fruit-into-baskets) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mandarbhat27/leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Mandarbhat27/leet/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mandarbhat27/leet/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0575-distribute-candies](https://github.com/Mandarbhat27/leet/tree/master/0575-distribute-candies) |
 | [0904-fruit-into-baskets](https://github.com/Mandarbhat27/leet/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mandarbhat27/leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mandarbhat27/leet/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
