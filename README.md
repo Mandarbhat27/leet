@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mandarbhat27/leet/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Mandarbhat27/leet/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mandarbhat27/leet/tree/master/0144-binary-tree-preorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Mandarbhat27/leet/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -226,8 +227,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mandarbhat27/leet/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Mandarbhat27/leet/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mandarbhat27/leet/tree/master/0144-binary-tree-preorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Mandarbhat27/leet/tree/master/0700-search-in-a-binary-search-tree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mandarbhat27/leet/tree/master/0141-linked-list-cycle) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Mandarbhat27/leet/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
