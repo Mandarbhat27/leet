@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Mandarbhat27/leet/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mandarbhat27/leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Mandarbhat27/leet/tree/master/0771-jewels-and-stones) |
+| [0819-most-common-word](https://github.com/Mandarbhat27/leet/tree/master/0819-most-common-word) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mandarbhat27/leet/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mandarbhat27/leet/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Mandarbhat27/leet/tree/master/1903-largest-odd-number-in-string) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Mandarbhat27/leet/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/Mandarbhat27/leet/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Mandarbhat27/leet/tree/master/0724-find-pivot-index) |
+| [0819-most-common-word](https://github.com/Mandarbhat27/leet/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/Mandarbhat27/leet/tree/master/0904-fruit-into-baskets) |
 | [1052-grumpy-bookstore-owner](https://github.com/Mandarbhat27/leet/tree/master/1052-grumpy-bookstore-owner) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mandarbhat27/leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mandarbhat27/leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Mandarbhat27/leet/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/Mandarbhat27/leet/tree/master/0771-jewels-and-stones) |
+| [0819-most-common-word](https://github.com/Mandarbhat27/leet/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/Mandarbhat27/leet/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mandarbhat27/leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mandarbhat27/leet/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Mandarbhat27/leet/tree/master/0383-ransom-note) |
+| [0819-most-common-word](https://github.com/Mandarbhat27/leet/tree/master/0819-most-common-word) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mandarbhat27/leet/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
