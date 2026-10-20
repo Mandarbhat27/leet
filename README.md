@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Mandarbhat27/leet/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Mandarbhat27/leet/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/Mandarbhat27/leet/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Mandarbhat27/leet/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Mandarbhat27/leet/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Mandarbhat27/leet/tree/master/0151-reverse-words-in-a-string) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mandarbhat27/leet/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Mandarbhat27/leet/tree/master/0055-jump-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mandarbhat27/leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Greedy
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mandarbhat27/leet/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Mandarbhat27/leet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mandarbhat27/leet/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Mandarbhat27/leet/tree/master/0046-permutations) |
@@ -254,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mandarbhat27/leet/tree/master/0700-search-in-a-binary-search-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Mandarbhat27/leet/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
