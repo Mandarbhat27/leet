@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Mandarbhat27/leet/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Mandarbhat27/leet/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Mandarbhat27/leet/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Mandarbhat27/leet/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mandarbhat27/leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Mandarbhat27/leet/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Mandarbhat27/leet/tree/master/0819-most-common-word) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Mandarbhat27/leet/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Mandarbhat27/leet/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Mandarbhat27/leet/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/Mandarbhat27/leet/tree/master/0389-find-the-difference) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mandarbhat27/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mandarbhat27/leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Mandarbhat27/leet/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Mandarbhat27/leet/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mandarbhat27/leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mandarbhat27/leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Mandarbhat27/leet/tree/master/0575-distribute-candies) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Mandarbhat27/leet/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Mandarbhat27/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mandarbhat27/leet/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Mandarbhat27/leet/tree/master/0389-find-the-difference) |
 ## Tree
 |  |
 | ------- |
