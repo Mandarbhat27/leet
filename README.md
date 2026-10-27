@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Mandarbhat27/leet/tree/master/0904-fruit-into-baskets) |
 | [1052-grumpy-bookstore-owner](https://github.com/Mandarbhat27/leet/tree/master/1052-grumpy-bookstore-owner) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mandarbhat27/leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1732-find-the-highest-altitude](https://github.com/Mandarbhat27/leet/tree/master/1732-find-the-highest-altitude) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mandarbhat27/leet/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3904-smallest-stable-index-ii](https://github.com/Mandarbhat27/leet/tree/master/3904-smallest-stable-index-ii) |
 ## Math
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Mandarbhat27/leet/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Mandarbhat27/leet/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Mandarbhat27/leet/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/Mandarbhat27/leet/tree/master/1732-find-the-highest-altitude) |
 | [3904-smallest-stable-index-ii](https://github.com/Mandarbhat27/leet/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
 |  |
