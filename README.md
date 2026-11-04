@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mandarbhat27/leet/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Mandarbhat27/leet/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Mandarbhat27/leet/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Mandarbhat27/leet/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Mandarbhat27/leet/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Mandarbhat27/leet/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Mandarbhat27/leet/tree/master/0509-fibonacci-number) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mandarbhat27/leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Mandarbhat27/leet/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mandarbhat27/leet/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Mandarbhat27/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mandarbhat27/leet/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -297,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Mandarbhat27/leet/tree/master/0509-fibonacci-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Mandarbhat27/leet/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
