@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mandarbhat27/leet/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Mandarbhat27/leet/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mandarbhat27/leet/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Mandarbhat27/leet/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mandarbhat27/leet/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/Mandarbhat27/leet/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Mandarbhat27/leet/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mandarbhat27/leet/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Mandarbhat27/leet/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Mandarbhat27/leet/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Mandarbhat27/leet/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mandarbhat27/leet/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Mandarbhat27/leet/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mandarbhat27/leet/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Mandarbhat27/leet/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mandarbhat27/leet/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mandarbhat27/leet/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mandarbhat27/leet/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Mandarbhat27/leet/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mandarbhat27/leet/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Mandarbhat27/leet/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mandarbhat27/leet/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mandarbhat27/leet/tree/master/0700-search-in-a-binary-search-tree) |
 ## Floyd's Cycle Finding Algorithm
