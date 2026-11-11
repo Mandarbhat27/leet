@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mandarbhat27/leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Mandarbhat27/leet/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mandarbhat27/leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/Mandarbhat27/leet/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Mandarbhat27/leet/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/Mandarbhat27/leet/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Mandarbhat27/leet/tree/master/0643-maximum-average-subarray-i) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Mandarbhat27/leet/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Mandarbhat27/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mandarbhat27/leet/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/Mandarbhat27/leet/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Mandarbhat27/leet/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mandarbhat27/leet/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Mandarbhat27/leet/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Mandarbhat27/leet/tree/master/0134-gas-station) |
+| [0455-assign-cookies](https://github.com/Mandarbhat27/leet/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/Mandarbhat27/leet/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mandarbhat27/leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Mandarbhat27/leet/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Mandarbhat27/leet/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Mandarbhat27/leet/tree/master/0455-assign-cookies) |
 ## Tree
 |  |
 | ------- |
@@ -318,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Mandarbhat27/leet/tree/master/0069-sqrtx) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Mandarbhat27/leet/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
