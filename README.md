@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mandarbhat27/leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Mandarbhat27/leet/tree/master/1732-find-the-highest-altitude) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mandarbhat27/leet/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2784-check-if-array-is-good](https://github.com/Mandarbhat27/leet/tree/master/2784-check-if-array-is-good) |
 | [3904-smallest-stable-index-ii](https://github.com/Mandarbhat27/leet/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Mandarbhat27/leet/tree/master/1189-maximum-number-of-balloons) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mandarbhat27/leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mandarbhat27/leet/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2784-check-if-array-is-good](https://github.com/Mandarbhat27/leet/tree/master/2784-check-if-array-is-good) |
 ## Sliding Window
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Mandarbhat27/leet/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Mandarbhat27/leet/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Mandarbhat27/leet/tree/master/0645-set-mismatch) |
+| [2784-check-if-array-is-good](https://github.com/Mandarbhat27/leet/tree/master/2784-check-if-array-is-good) |
 ## Tree
 |  |
 | ------- |
