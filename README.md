@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Mandarbhat27/leet/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/Mandarbhat27/leet/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Mandarbhat27/leet/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Mandarbhat27/leet/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Mandarbhat27/leet/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Mandarbhat27/leet/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/Mandarbhat27/leet/tree/master/0819-most-common-word) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Mandarbhat27/leet/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Mandarbhat27/leet/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Mandarbhat27/leet/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Mandarbhat27/leet/tree/master/0645-set-mismatch) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Mandarbhat27/leet/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Prefix Sum
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mandarbhat27/leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mandarbhat27/leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Mandarbhat27/leet/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/Mandarbhat27/leet/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Mandarbhat27/leet/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Mandarbhat27/leet/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/Mandarbhat27/leet/tree/master/0904-fruit-into-baskets) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Mandarbhat27/leet/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Mandarbhat27/leet/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Mandarbhat27/leet/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/Mandarbhat27/leet/tree/master/0645-set-mismatch) |
 ## Tree
 |  |
 | ------- |
