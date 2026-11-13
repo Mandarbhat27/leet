@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Mandarbhat27/leet/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/Mandarbhat27/leet/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mandarbhat27/leet/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1668-maximum-repeating-substring](https://github.com/Mandarbhat27/leet/tree/master/1668-maximum-repeating-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mandarbhat27/leet/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Mandarbhat27/leet/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Mandarbhat27/leet/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/Mandarbhat27/leet/tree/master/0509-fibonacci-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mandarbhat27/leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1668-maximum-repeating-substring](https://github.com/Mandarbhat27/leet/tree/master/1668-maximum-repeating-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -337,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Mandarbhat27/leet/tree/master/0455-assign-cookies) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/Mandarbhat27/leet/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
