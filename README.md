@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mandarbhat27/leet/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Mandarbhat27/leet/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Mandarbhat27/leet/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Mandarbhat27/leet/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Mandarbhat27/leet/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Mandarbhat27/leet/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mandarbhat27/leet/tree/master/0202-happy-number) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mandarbhat27/leet/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Mandarbhat27/leet/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Mandarbhat27/leet/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/Mandarbhat27/leet/tree/master/0509-fibonacci-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mandarbhat27/leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1668-maximum-repeating-substring](https://github.com/Mandarbhat27/leet/tree/master/1668-maximum-repeating-substring) |
@@ -343,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/Mandarbhat27/leet/tree/master/1668-maximum-repeating-substring) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Mandarbhat27/leet/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
