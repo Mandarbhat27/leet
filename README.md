@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Mandarbhat27/leet/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Mandarbhat27/leet/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Mandarbhat27/leet/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mandarbhat27/leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Mandarbhat27/leet/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Mandarbhat27/leet/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Mandarbhat27/leet/tree/master/0151-reverse-words-in-a-string) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mandarbhat27/leet/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mandarbhat27/leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mandarbhat27/leet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Mandarbhat27/leet/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Mandarbhat27/leet/tree/master/0151-reverse-words-in-a-string) |
@@ -344,9 +346,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mandarbhat27/leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1668-maximum-repeating-substring](https://github.com/Mandarbhat27/leet/tree/master/1668-maximum-repeating-substring) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Mandarbhat27/leet/tree/master/0062-unique-paths) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mandarbhat27/leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mandarbhat27/leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mandarbhat27/leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
